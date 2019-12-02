@@ -1,0 +1,135 @@
+*
+	{
+		margin:0px ;
+		padding:0px;
+	}
+.menu li
+	{
+		float:left;
+		list-style: none;
+		margin:10px 25px ;
+	}
+.blok-menu
+	{
+		overflow: hidden;
+		background: #444;
+	}
+.menu
+	{
+		margin:0 auto;
+		display:table;
+	}
+.menu li a
+	{
+		font: 18px Colonna mt, Times new roman, sans-serif;
+		color:#fff;
+		text-decoration: none;
+	}
+.menu li a:hover
+	{
+		font: 18px Colonna mt, Times new roman, sans-serif;
+		color:#ccc;
+		border-bottom:1px dotted #ccc;
+	}
+
+
+
+
+
+.main {
+	border-left: 1px solid #A9A9A9;
+	border-right: 1px solid #A9A9A9;
+	margin-left: 20%;
+	margin-right: 20%;
+	background: #A9A9A9;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, .3), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+	padding-top: 2%;
+	padding-bottom: 10%;
+}
+
+.main h1
+{
+font:30px Colonna mt, Times new roman, sans-serif;
+color:#440;
+text-align:center;
+font-weight:bold;
+}
+
+.main img {
+	margin-bottom: 2%;
+}
+
+.main .with-border 
+{
+	font:20px Impact, fantasy, sans-serif;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.main .with-border .text {
+	margin-top: 10%;
+}
+
+.main h2
+{
+font:30px Colonna mt, Times new roman, sans-serif;
+color:#440;
+text-align:center;
+font-weight:bold;
+}
+
+.main img {
+	margin-top: 2%;
+}
+
+.main p
+{
+font: 24px Colonna mt, Times new roman, sans-serif;
+color:#444;
+text-indent:20px;
+margin-bottom: 2%
+}
+
+
+.main div {
+	border: 1px solid LightYellow;
+	background: LightYellow;
+	height: 45%;
+	width: 70%; 
+	overflow: hidden;
+	padding-top: 2%
+
+	
+}
+
+.block1 {
+	font:75% Impact, fantasy, sans-serif;
+	position: relative;
+	right:10%;
+	margin-bottom: 20px;
+
+}
+
+.block2 {
+	font:75% Impact, fantasy, sans-serif;
+	position: relative;
+	left:60%;
+
+}
+
+.raz 
+{
+	margin-top: 5%;
+	font: 70px Colonna mt, Times new roman, sans-serif;
+}
+
+.footer {
+	border-top: 1px solid gray;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	text-align: center;
+	background: #444;
+	color: white;
+}
